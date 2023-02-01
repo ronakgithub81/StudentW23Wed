@@ -3,6 +3,7 @@ package studentw23wed;
 
 import java.util.Scanner;
 /*author:Ronak */
+/* added comment for fetch+merge*/
 
 public class ReverseWord {
     public static void main(String[] args){
